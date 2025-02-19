@@ -35,5 +35,5 @@ The **Automated Solar Alignment System** is designed to optimize solar energy co
 **Architecture of the Project**
 ![image](https://github.com/user-attachments/assets/dae77fdb-234b-453d-b88c-ecfad124f3f7)
 
-**Video Demonstration**
+**Video Demonstration:**
 https://drive.google.com/file/d/12ranElS1I7vuI856wD3KS8bWFGQ5H3Pl/view?usp=sharing
